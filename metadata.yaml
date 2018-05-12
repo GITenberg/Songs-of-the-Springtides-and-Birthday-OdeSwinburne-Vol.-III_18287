@@ -1,0 +1,35 @@
+_repo: Songs-of-the-Springtides-and-Birthday-OdeSwinburne-Vol.-III_18287
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swinburne, Algernon Charles
+    aliases:
+    - Maitland, Thomas
+    - Maitland, A. C. (Algernon Charles)
+    birthdate: 1837
+    deathdate: 1909
+    gutenberg_agent_id: '832'
+    url: http://www.gutenberg.org/2009/agents/832
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Swinburne
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2006-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18287'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+title: 'Songs of the Springtides and Birthday Ode
+
+  Taken from The Collected Poetical Works of Algernon Charles
+
+  Swinburne—Vol. III'
+url: http://www.gutenberg.org/ebooks/18287
